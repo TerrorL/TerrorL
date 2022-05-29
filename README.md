@@ -10,5 +10,5 @@
 -----
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/TerrorL/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=TerrorL&color=blue" />
 </p>
